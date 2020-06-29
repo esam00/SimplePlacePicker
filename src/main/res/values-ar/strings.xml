@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimplePlacePicker</string>
+
+    <string name="service_not_available">تأكد من اتصال الهاتف بالانترنت</string>
+    <string name="no_address_found">لم يتم العثور على أي عنوان </string>
+    <string name="address_found">تم العثور على عنوان </string>
+    <string name="not_support_area">هذه المنطقة غير مدعومة حاليا </string>
+    <string name="confirm_location">تأكيد العنوان</string>
+    <string name="search_place">ابحث عن عنوان </string>
+    <string name="confirm_pickup">تأكيد نقطة الانطلاق</string>
+    <string name="confirm_dest">تأكيد نقطة الوصول</string>
+    <string name="failed_select_location">خطأفي تحديد الموقع ، من فضلك حاول مرة أخرى</string>
+
+</resources>
