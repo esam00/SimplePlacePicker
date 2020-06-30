@@ -20,7 +20,7 @@ this scenario with some customizations
 3. Google Places Api key
 
 ## Setup :
-Before importing simpleplacepicker module into your android project, make sure that :
+#### Before importing simpleplacepicker module into your android project, make sure that :
 1. your project manifest file contains internet and location permissions
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
@@ -72,7 +72,7 @@ just create intent and add extras to get some customization
         intent.putExtras(bundle);
         startActivityForResult(intent, SimplePlacePicker.SELECT_LOCATION_REQUEST_CODE);
 ```
-#### Example project :  [TestPlacePicker](https://github.com/esam00/TestPlacePicker)
+### Example project :  [TestPlacePicker](https://github.com/esam00/TestPlacePicker)
 
 ## SimplePlacePicker module is implemented with the help of :
 * MaterialSearchBar https://github.com/mancj/MaterialSearchBar
