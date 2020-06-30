@@ -1,8 +1,9 @@
+![Android Studio v4.0](https://img.shields.io/badge/Android%20Studio-v4.0-green)
+
 # SimplePlacePicker Android
 If you have a use case that requires searching and selecting a specific location on map ,
 Here is a nice independent module that you can simply import into your project to handle
 this scenario with some customizations
-![Android Studio v4.0](https://img.shields.io/badge/Android%20Studio-v4.0-green)
 
 <p align="center">
 <img src="screenshots/demo.gif" width=300>
