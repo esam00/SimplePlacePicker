@@ -49,7 +49,7 @@ allprojects {
   }
 }
 ```
-## How to import as module
+## How to import as Module
 1. Clone or download simplePlacePicker and save it at a path that you know.
 2. In your android project, Go to File > New > Import Module..
 3. Enter the path of simpleplacepicker module and click finish.
@@ -72,7 +72,7 @@ just create intent and add extras to get some customization
         intent.putExtras(bundle);
         startActivityForResult(intent, SimplePlacePicker.SELECT_LOCATION_REQUEST_CODE);
 ```
-## Example project [TestPlacePicker](https://github.com/esam00/TestPlacePicker)
+#### Example project :  [TestPlacePicker](https://github.com/esam00/TestPlacePicker)
 
 ## SimplePlacePicker module is implemented with the help of :
 * MaterialSearchBar https://github.com/mancj/MaterialSearchBar
